@@ -53,4 +53,4 @@ Epam courses
 **Languages**
 ===
 * Russian - native speaker
-* English - pre-intermediate
+* English - pre-intermediate.
