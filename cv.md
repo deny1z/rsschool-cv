@@ -5,7 +5,7 @@
 **My Contact info:**
 ===
 * Phone: +375(29)-365-03-74;
-* Email: deniszaitsev5@gmail.com;
+* Email: deniszaitsev2@gmail.com;
 * GitHub: deny1z
 * Telegram: @deny1uk
 
