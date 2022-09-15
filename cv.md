@@ -28,6 +28,7 @@ I am 37 years old, I currently work as a individual entrepreneur. I think that m
 * JavaScript
 * Git/GitHub
 * Figma
+* java
 
 
 **Code Examples**
